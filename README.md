@@ -1,6 +1,7 @@
 # **Cookie**
 Fight your friends and catch the cookies!
-Bot developer by `Sebastiano#3151` and `taaal#3886`.
+
+Bot developed by `Sebastiano#3151` and `taaal#3886`.
 
 [Invite](https://discord.com/oauth2/authorize?client_id=638483485417406495&permissions=84032&scope=bot) | [Support Server](https://discord.gg/vCUpW9E) | [discordbotlist.com](https://discordbotlist.com/bots/cookie-fighter)
 
