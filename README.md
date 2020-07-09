@@ -7,6 +7,7 @@ Bot developed by `Sebastiano#3151` and `taaal#3886`.
 
 ## Commands
 *remember to put the prefix `c/` before commands.*
+
 ---
 **`cookie`**
 > When someone type this, bot will send a message in the chat with a counter of 3 seconds, when this will end it will edit the message with game rules and it will add a cookie as a reaction to the message. 
@@ -49,4 +50,5 @@ After ten seconds the bot will choose a random game and it will edit the message
 ---
 **`uptime`**
 > See how long the bot stayed online.
+
 ---
