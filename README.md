@@ -12,8 +12,8 @@ Bot developed by `Sebastiano#3151` and `taaal#3886`.
 **`cookie`**
 > When someone type this, bot will send a message in the chat with a counter of 3 seconds, when this will end it will edit the message with game rules and it will add a cookie as a reaction to the message. 
 The first person to react to that cookie will win the game and a cookie will be add at his balance.
----
 
+---
 **`milk`**
 > Same as `cookie` but with a bucket milk instead of a cookie.
 
