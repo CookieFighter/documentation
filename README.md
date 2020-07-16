@@ -1,4 +1,4 @@
-# **Cookie**
+# **Cookie Fighter**
 Fight your friends and catch the cookies!
 
 Bot developed by `Sebastiano#3151` and `taaal#3886`.
