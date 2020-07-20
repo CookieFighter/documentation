@@ -36,6 +36,10 @@ After ten seconds the bot will choose a random game and it will edit the message
 > See the 10 users with more cookies.
 
 ---
+**`leaderboard server`**
+> See the 10 users with more cookies in the actual server.
+
+---
 **`invite`**
 > Get a link to invite the bot to your servers.
 
@@ -50,5 +54,9 @@ After ten seconds the bot will choose a random game and it will edit the message
 ---
 **`uptime`**
 > See how long the bot stayed online.
+
+---
+**`vote`**
+> Vote the bot on top.gg (DBL).
 
 ---
