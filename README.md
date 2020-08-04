@@ -9,18 +9,18 @@ Bot developed by `Sebastiano#3151` and `taaal#3886`.
 *remember to put the prefix `c/` before commands.*
 
 ---
-**`cookie`**
+**`cookie [timeout]`**
 > When someone type this, bot will send a message in the chat with a counter of 3 seconds, when this will end it will edit the message with game rules and it will add a cookie as a reaction to the message. 
-The first person to react to that cookie will win the game and a cookie will be add at his balance.
+The first person to react to that cookie will win the game and a cookie will be add at his balance. You can also set a timeout adding a number after the command name, max is 300 seconds, default is 120. 
 
 ---
-**`milk`**
-> Same as `cookie` but with a bucket milk instead of a cookie.
+**`milk [timeout]`**
+> Same as `cookie` but with a bucket milk instead of a cookie. You can also set a timeout adding a number after the command name, max is 300 seconds, default is 120. 
 
 ---
-**`type`**
+**`type [timeout]`**
 > When someone type this, bot will send a message in the chat with a counter of 3 seconds, when this will end it will edit the message with game rules.
-The first person to send a cookie will win the game and a cookie will be add at his balance.
+The first person to send a cookie will win the game and a cookie will be add at his balance. You can also set a timeout adding a number after the command name, max is 300 seconds, default is 120. 
 
 ---
 **`party`**
