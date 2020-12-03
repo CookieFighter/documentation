@@ -1,7 +1,8 @@
 # **Cookie Fighter**
 Fight your friends and catch the cookies!
 
-Bot developed by `Sebastiano#3151` and `taaal#3886`.
+Bot developed by `Sebastiano#3151`, `Infinit7Even
+#0007` and `tal#3415`.
 
 [Invite](https://discord.com/oauth2/authorize?client_id=638483485417406495&permissions=84032&scope=bot) | [Support Server](https://discord.gg/vCUpW9E) | [Top.GG](https://top.gg/bot/638483485417406495)
 
@@ -9,18 +10,18 @@ Bot developed by `Sebastiano#3151` and `taaal#3886`.
 *remember to put the prefix `c/` before commands.*
 
 ---
-**`cookie [timeout]`**
+**`cookie`**
 > When someone type this, bot will send a message in the chat with a counter of 3 seconds, when this will end it will edit the message with game rules and it will add a cookie as a reaction to the message. 
-The first person to react to that cookie will win the game and a cookie will be add at his balance. You can also set a timeout adding a number after the command name, max is 300 seconds, default is 120. 
+The first person to react to that cookie will win the game and a cookie will be add at his balance.
 
 ---
-**`milk [timeout]`**
-> Same as `cookie` but with a bucket milk instead of a cookie. You can also set a timeout adding a number after the command name, max is 300 seconds, default is 120. 
+**`milk`**
+> Same as `cookie` but with a bucket milk instead of a cookie.
 
 ---
-**`type [timeout]`**
+**`type`**
 > When someone type this, bot will send a message in the chat with a counter of 3 seconds, when this will end it will edit the message with game rules.
-The first person to send a cookie will win the game and a cookie will be add at his balance. You can also set a timeout adding a number after the command name, max is 300 seconds, default is 120. 
+The first person to send a cookie will win the game and a cookie will be add at his balance.
 
 ---
 **`party`**
@@ -29,7 +30,15 @@ After ten seconds the bot will choose a random game and it will edit the message
 
 ---
 **`stats [user]`**
-> Check the balance of a user, you can pass the id, the mention or the name.
+> Check the balance of a user, you can pass the id or the mention.
+
+---
+**`send [user] [cookies]`**
+> Gift a number of cookies to a user, you can pass the id or the mention.
+
+---
+**`delete`**
+> Delete all your cookies, you won't have them back.
 
 ---
 **`leaderboard`**
@@ -58,5 +67,21 @@ After ten seconds the bot will choose a random game and it will edit the message
 ---
 **`vote`**
 > Vote the bot on top.gg (DBL).
+
+---
+**`settings`**
+> Show the current server settings
+
+---
+**`settings [option] [value]`**
+> Setup server settings, available options are: `colour`, `emoji` and `timeout`. 
+
+---
+**`prefix [prefix]`** 
+> Change the server prefix
+
+---
+**`prefix reset`**
+> Reset the prefix to the default one
 
 ---
